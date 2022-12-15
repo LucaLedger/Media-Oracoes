@@ -1,0 +1,12 @@
+Vá no arquivo .jar e clique com o botão direito sobre
+        ele, escolha a opção propriedades, na janela de propriedades 
+        clique na aba "Abrir com", em seguida clique no botão "Adicionar",
+        irá abrir uma janela com várias opções de programas, embaixo 
+        nessa mesma janela estará escrito "Usar um comando personalizado"
+        clique em cima e então na caixa de texto que irá aparecer digite:
+        "java -jar" (sem aspas) e clique em "Adicionar". Pronto agora é só
+        você dar um duplo clique no arquivo, que ele vai abrir.
+        
+        sudo apt update && sudo apt upgrade
+      sudo apt-get update
+      sudo apt-get upgrade
